@@ -11,3 +11,9 @@ li {
   color: #fff ;
   height: 90px;
 }
+
+.header-logo {
+  float: left;
+  font-size:36px;
+  padding: 20px 40px;
+}
