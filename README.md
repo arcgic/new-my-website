@@ -1,2 +1,1 @@
-# it is mercari's website.
-# これはメルカリのwebサイトです。
+# I imagined the homepage of Mercari and made it.
