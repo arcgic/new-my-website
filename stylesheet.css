@@ -13,8 +13,8 @@ li {
 }
 
 .header-logo {
-  height:100;
-  weight:200;
+  height:25;
+  weight:50;
 }
 .header-list li {
   float: left ;
