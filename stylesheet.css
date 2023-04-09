@@ -13,8 +13,9 @@ li {
 }
 
 .header-logo {
-  width:300px;
-　height:100px;
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
 }
 .header-list li {
   float: left ;
