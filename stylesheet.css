@@ -10,17 +10,20 @@ li {
   background-color:#ffffff; 
   color:#778899;
   height:180px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .header-logo {
   float:left;
   font-size:20px;
   padding:30px 70px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .header-list li {
   float:left;
   padding:33px 60px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .main{
@@ -30,12 +33,14 @@ li {
 .copy-container h1 {
   text-align:center; 
   font-size:115px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .copy-container h2 {
   font-size:60px;
   text-align:center;
   padding:20px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .contents {
@@ -49,6 +54,7 @@ li {
   padding-bottom:15px;
   margin-bottom:50px;
   text-align:center;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .contents-item {
@@ -59,6 +65,7 @@ li {
 .contents-item p {
   font-size:24px;
   margin-top:30px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .footer {
@@ -71,6 +78,7 @@ li {
 .footer-logo {
   float:left;
   font-size:32px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .footer-list {
@@ -79,6 +87,7 @@ li {
 
 .footer-list li {
   padding-bottom:20px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 
