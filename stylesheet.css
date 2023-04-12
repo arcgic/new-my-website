@@ -1,1 +1,65 @@
+body {
+ 
+}
+
+li {
+  list-style:none; 
+}
+
+.header {
+  background-color:#ffffff; 
+  color:#778899;
+  height:180px;
+}
+
+.header-logo {
+  float:left;
+  font-size:20px;
+  padding:30px 70px;
+}
+
+.header-list li {
+  float:left;
+  padding:33px 70px;
+}
+
+.main{
+  padding:100px 80px; 
+}
+
+.copy-container h1 {
+  text-align:center; 
+  font-size:115px;
+}
+
+.copy-container h2 {
+  font-size:60px;
+  text-align:center;
+  padding:20px;
+}
+
+.contents {
+  height:500px;
+  margin-top:100px;
+}
+
+.section-title {
+ border-botton:2px solid #dee7ec;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
