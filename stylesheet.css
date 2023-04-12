@@ -44,12 +44,42 @@ li {
 }
 
 .section-title {
- border-botton:2px solid #dee7ec;
-  
+  border-botton:2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+  margin-bottom:50px;
+  text-align:center;
 }
 
+.contents-item {
+  float:left;
+  margin-right:40px;
+}
 
+.contents-item p {
+  font-size:24px;
+  margin-top:30px;
+}
 
+.footer {
+  background-color:#2f5167;
+  color:#fff;
+  height:120px;
+  padding;40px;
+}
+
+.footer-logo {
+  float:left;
+  font-size:32px;
+}
+
+.footer-list {
+  float:right;
+}
+
+.footer-list li {
+  padding-bottom:20px;
+}
 
 
 
