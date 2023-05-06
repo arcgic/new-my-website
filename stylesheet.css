@@ -1,5 +1,5 @@
 body {
- 
+   font-family: 'Zen Kurenaido', sans-serif;
 }
 
 li {
@@ -7,45 +7,63 @@ li {
 }
 
 .header {
-  background-color:#ffffff; 
-  color:#778899;
-  height:180px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  background-color:teal; 
+  color:#fff;
+  height:90px;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .header-logo {
   float:left;
-  font-size:20px;
-  padding:30px 70px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-size:36px;
+  padding:20px 40px;
 }
 
 .header-list li {
   float:left;
-  padding:33px 60px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  padding:33px 20px;
 }
 
 .main{
   padding:100px 80px; 
 }
 
-.copy-container h1 {
-  text-align:center; 
-  font-size:115px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+.hero {
+  height: 500px;
+  position:relative;
 }
 
-.copy-container h2 {
-  font-size:60px;
-  text-align:center;
+.hero-image img {
+  object-fit: cover;
+  height:100%
+  width:100%;
+  clip-path:polygon(0 0, !00% 0, 100% 80%, 0 80%);
+  opacity: 0.5;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
   padding:20px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  text align:center;
+  color:#fff;
+  font-family:'Yuji Syuku', serif;
+}
+
+.hero-text h1 {
+  font-size:48px;
+  margin:0;
+  text-transform:upperca;
+  font-family:'Zenkaku Gothic Antique', sans-serif;
 }
 
 .contents {
   height:500px;
   margin-top:100px;
+  text-align:center;
 }
 
 .section-title {
@@ -53,32 +71,34 @@ li {
   font-size:28px;
   padding-bottom:15px;
   margin-bottom:50px;
-  text-align:center;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .contents-item {
+  height:50px;
+  width:auto;
   float:left;
-  margin-right:40px;
+  margin-right:20px;
+  margin-left:25px;
 }
 
 .contents-item p {
-  font-size:24px;
+  font-size:10px;
   margin-top:30px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .footer {
-  background-color:#2f5167;
+  background-color:teal;
   color:#fff;
   height:120px;
   padding;40px;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .footer-logo {
   float:left;
   font-size:32px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 .footer-list {
@@ -87,8 +107,10 @@ li {
 
 .footer-list li {
   padding-bottom:20px;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
 }
+
+
+
 
 
 
